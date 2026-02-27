@@ -14,7 +14,7 @@ To program the ESP32S3 microcontroller using the Arduino IDE, follow these steps
 Our expansion modules are designed to scale with your project's complexity. Version 01 features a standard 40-pin interface, ideal for core connectivity and essential I/O tasks. 
 For more advanced applications, Version 02 expands this to 50 pins, providing the additional overhead needed for enhanced data throughput and increased peripheral support.
 
-![V1 & V2  measurement](Images/V1 & V2  measurement.PNG)
+![measurement](Images/measurement.PNG)
 
 **Board Configuration**  
 - **Board:** ESP32S3 Dev Module  
