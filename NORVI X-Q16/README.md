@@ -10,3 +10,5 @@ barrier between the switching circuitry and the processor.
 The module supports high-speed switching frequencies for precise automation tasks and features individual LED diagnostics for real-time status 
 monitoring. Field wiring is streamlined via an 18-pin terminal block providing sixteen transistor outputs (TR1–TR16) and a secondary power 
 block for 24V DC and GND distribution.
+
+Datasheet : https://norvi.io/docs/norvi-x-q16-datasheet/
