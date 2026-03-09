@@ -61,7 +61,7 @@ The current input states are shown on the **built-in TFT display and Serial Moni
 
 ---
 
-# Running the Example
+## Running the Example
 
 Follow the steps below to run the example.
 
@@ -82,7 +82,9 @@ Ensure the signal is within the **supported input range**.
 
 ## 2. Configure the Program
 
-No additional user configuration is required for this example before upload.
+- No specific software configuration (like WiFi credentials) is required for this basic test.
+
+- Verify the I2C pins are defined as SDA (8) and SCL (9) in the code.
 
 ---
 
