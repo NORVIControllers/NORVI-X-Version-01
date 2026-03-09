@@ -70,7 +70,6 @@ The I2C address of the module can be configured using the DIP switches:
 | OFF   | ON    | –     | –     | 0x71        |
 | ON    | ON    | –     | –     | 0x70        |
 
-> **Note:** DIP 3 and DIP 4 are not used for address selection in this setup.
 
 ---
 
