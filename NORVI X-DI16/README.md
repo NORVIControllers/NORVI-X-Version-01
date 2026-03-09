@@ -159,7 +159,7 @@ Before running the example ensure:
 Example:
 
 **Power Supply:** 24V DC  
-**Digital Input Range:** 5 – 24V
+**Digital Input Range:** 24V
 
 ---
 
