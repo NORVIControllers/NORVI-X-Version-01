@@ -28,7 +28,7 @@ Website: https://norvi.io
 This example demonstrates the following technical implementations:
 
 - **I2C Scanning:** Automatically detects the DI8 module at address **0x73**
-  ## I2C Address Selection
+  I2C Address Selection
 
 The I2C address of the module can be configured using the DIP switches.
 
