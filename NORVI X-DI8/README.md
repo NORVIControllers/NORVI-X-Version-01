@@ -95,8 +95,16 @@ Ensure the signal is within the **supported input range**.
 3. Upload the program to the **NORVI controller**
 
 ---
+## 4. Open Serial Monitor
 
-## 4. Observe the Display
+Set the **Baud Rate** to:
+
+```
+115200
+```
+
+---
+## 5. Observe the Display
 
 After uploading, the **TFT display** will show the status of the digital inputs.
 
