@@ -7,7 +7,7 @@ The purpose of this example is to show how to:
 
 - Integrate the **Q8 Module** into the NORVI X CPU  
 - Read the status of **8 transistor outputs**  
-- Integrate the **PCA9538 I/O expander** to control digital outputs  
+- Integrate the **PCA9538 I/O expander** to control transistor outputs  
 - Use the **TFT_eSPI library** to display real-time status updates  
 - Implement a basic **I2C scanner** to detect connected peripherals  
 
