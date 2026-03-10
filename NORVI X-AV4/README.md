@@ -6,7 +6,7 @@ This example demonstrates how to use the **Analog Input Expansion Module (AV4)**
 The purpose of this example is to show how to: 
 - Initialize ADS1115: Set up 16-bit ADC via I2C at 0x48
 - Read the status of 4 analog inputs
-- Setup Display: Initialize TFT_eSPI and display pins.
+- Setup Display: Initialize TFT_eSPI and display pins
 
 This example can be used as a starting point for developers building applications with NORVI controllers. 
 
