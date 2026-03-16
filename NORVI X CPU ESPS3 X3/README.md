@@ -127,7 +127,7 @@ Install the following libraries before compiling:
 ## Support
 - Documentation: https://norvi.io/docs  
 - For additional support or inquiries, contact the NORVI support team.
-
+- Datasheet: https://norvi.io/docs/norvi-x-cpu-esps3-x1-datasheet/
 ---
 
 ## License
