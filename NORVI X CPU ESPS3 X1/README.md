@@ -146,6 +146,11 @@ Download Libraries:  https://github.com/NORVIControllers/NORVI-X-Version-01/tree
 - Additional **calibration or optimization** may be required for production systems
 - Performance may depend on **sensor accuracy and environmental conditions**
 
+  ### Hardware Compatibility Note
+  - Standard Product: ESP32-S3 (N16R2) – PSRAM via QSPI
+  - Special Product: ESP32-S3 (N16R8) – PSRAM via OSPI
+  - The NORVI X-Q4 expansion module is NOT supported with the Special Product (N16R8 variant)
+
 ---
 
 ## Safety Notes
