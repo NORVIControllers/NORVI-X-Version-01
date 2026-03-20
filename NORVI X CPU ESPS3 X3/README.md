@@ -109,7 +109,11 @@ Install the following libraries before compiling:
 - This example is provided for demonstration purposes.  
 - Additional calibration may be required for precise measurements.  
 - Performance may depend on sensor accuracy and environmental conditions.
-
+ 
+   ### Hardware Compatibility Note
+    - Standard Product: ESP32-S3 (N16R2) – PSRAM via QSPI
+    - Special Product: ESP32-S3 (N16R8) – PSRAM via OSPI
+    - The NORVI X-Q4 expansion module is NOT supported with the Special Product (N16R8 variant)
 ---
 
 ## Safety Notes
