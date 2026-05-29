@@ -33,7 +33,7 @@ The current input states are shown on the **built-in TFT display** and **Serial 
 2. Connect relay output signals to:
 
    - **NO1** to **NO8**
-   - 
+     
 Ensure the signal is within the **supported output range**.
 ---
 
