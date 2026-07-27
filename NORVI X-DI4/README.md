@@ -169,9 +169,6 @@ https://github.com/NORVIControllers/NORVI-X-Version-01/tree/main/libraries
 NORVI Documentation:  
 https://norvi.io/docs
 
-Datasheet:  
-https://norvi.io/docs/norvi-x-di4-datasheet/
-
 ---
 
 ## Support
